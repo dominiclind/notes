@@ -7,7 +7,7 @@ God willing, also to dropbox.
 Who knows, maybe Firebase?
 
 
-## Get it started
+### Get it started
 
 To build the app, install grunt and all its dependencies.
 
@@ -18,8 +18,9 @@ npm install 	  // install project dependencies
 grunt             // run projects default grunt task, generates a /build folder
 ```
 
-to start development watchers:
+To start development watchers:
 
 ```
 grunt watch
+
 ```
