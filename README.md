@@ -20,6 +20,6 @@ grunt             // run projects default grunt task, generates a /build folder
 
 To start development watchers:
 
-``
+```
 grunt watch
 ```
